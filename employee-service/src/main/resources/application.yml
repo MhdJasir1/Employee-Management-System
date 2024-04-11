@@ -1,0 +1,22 @@
+
+#server:
+#  port: 8082
+
+spring:
+  application:
+    name: employee-service
+  config:
+    import: "optional:configserver:http://localhost:8088"
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/microservice_employee
+    username: root
+    password: Jasir@1234
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  threads:
+    virtual:
+      enabled: true

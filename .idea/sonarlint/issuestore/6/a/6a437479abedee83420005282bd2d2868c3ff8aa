@@ -1,0 +1,18 @@
+
+†
+java:S14888"iImmediately return this expression instead of assigning it to the temporary variable "employeeArrayList".(âêö¸8Á±¹³Ú1
+m
+java:S3655@"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥ä¢Ÿ8ŠÂ‘àÚ1
+m
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥ä¢Ÿ8Î±¹³Ú1
+H
+java:S1452"&Remove usage of generic wildcard type.(¿ˆÏˆıÿÿÿÿ8Ñ±¹³Ú1
+C
+java:S1452"&Remove usage of generic wildcard type.(¶ç”8Ó±¹³Ú1
+H
+java:S1452$"&Remove usage of generic wildcard type.(ËúÙ”ıÿÿÿÿ8Õ±¹³Ú1
+H
+java:S1452="&Remove usage of generic wildcard type.(­‚‘Ñüÿÿÿÿ8¯­àÚ1
+Q
+java:S1128
+"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8¬Â‘àÚ1
